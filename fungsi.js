@@ -6,3 +6,6 @@ console.log(subtract(5, 2));
 
 const multiply = (a, b) => a * b;
 console.log(multiply(3, 4));
+
+const divide = (a, b) => a / b;
+console.log(divide(8, 4));
