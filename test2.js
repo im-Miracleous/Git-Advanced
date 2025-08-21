@@ -1,1 +1,0 @@
-console.log("Ini test 2");
